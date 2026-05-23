@@ -1,0 +1,4 @@
+"scripts": {
+  "start": "expo start",
+  "lint": "eslint ."
+}
